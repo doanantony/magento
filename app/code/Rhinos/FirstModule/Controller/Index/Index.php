@@ -29,7 +29,7 @@ class Index extends \Magento\Framework\App\Action\Action
 
                 {
 
-                             //  echo "Hello World";
+                               //echo "Hello World";
 
                                 return $this->_pageFactory->create();
 
